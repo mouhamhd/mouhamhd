@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mouhamhd
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Digit Systems
+- 👀 I’m interested in
+- 🌱 I’m currently learning Digital Systems
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : by mail mouha.yate@icloud.com
 - ⚡ Fun fact: ...
 
 <!---
